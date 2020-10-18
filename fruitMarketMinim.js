@@ -1,5 +1,4 @@
 //Release-0
-
 //Creating Variable
 var fruits =["Apple","Banana","Mango","Papaya","Orange","Lemon",
          "GrapeFruit","PineApple","Avocado","Watermelon","Pomelo","Kiwi",
@@ -10,9 +9,7 @@ var fruits =["Apple","Banana","Mango","Papaya","Orange","Lemon",
 var numberOfFruits = fruits.length ;//Lenth returns total number
 console.log(numberOfFruits);
 //document.write("Number Of Fruits in Array are =" +numberOfFruits);
-
 //Release-1
-
 var ramFruits =["Apple","Banana","Mango","Papaya","Orange","Lemon",
                 "GrapeFruit","PineApple","Avocado","watermelon"];
 var mohanFruits =["Pomelo","Kiwi","DragonFruit","Rambutan","Lychee",
